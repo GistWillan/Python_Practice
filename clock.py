@@ -15,6 +15,7 @@ def countdown(seconds):
 # 创建窗口
 window = tk.Tk()
 window.title("专注时钟")
+window.geometry("400x400")  # 设置窗口尺寸为 400x400
 
 # 添加标签和输入框
 label = tk.Label(window, text="输入专注时间（分钟）：")
