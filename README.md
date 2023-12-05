@@ -1,6 +1,5 @@
 # 个人Python练习
-clock.py：专注时钟
-\n
+clock.py：专注时钟<br>
 date.py：日期计算
 device_info：设备信息
 hash.py：哈希值查看和比较
